@@ -1,2 +1,2 @@
 # Machine-Learning
-University of Geneva
+Master course from the University of Geneva
